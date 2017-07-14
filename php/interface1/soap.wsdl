@@ -39,7 +39,8 @@
   <wsdl:message name="AddResponse">
     <wsdl:part name="c" type="xsd:int"></wsdl:part>
   </wsdl:message>
-  <wsdl:portType name="TestSoap">     <wsdl:operation name="Add">
+  <wsdl:portType name="TestSoap">
+    <wsdl:operation name="Add">
       <wsdl:input message="tns:AddRequest"></wsdl:input>
       <wsdl:output message="tns:AddResponse"></wsdl:output>
     </wsdl:operation>

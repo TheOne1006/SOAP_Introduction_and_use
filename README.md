@@ -36,6 +36,8 @@ WSDL 描述了 Web 服务的三个基本属性:
 2. 如何访问服务
 3. 服务位于何处(通过 URL确定)
 
+更多 <http://www.w3school.com.cn/wsdl/>
+
 > UDDI
 
 即 Universal Description，Discovery and Integration(通用的描述, 发现以及整合).
@@ -45,7 +47,6 @@ WSDL 描述了 Web 服务的三个基本属性:
 UUDI 是一个跨产业,跨平台的开放性架构,可以帮助 Web 服务提供商在互联网上发布 Web 服务的信息.
 
 UDDI 通过SOAP 进行通讯
-
 
 ##### SOAP IN PHP
 
