@@ -1,0 +1,6 @@
+myphp:
+    build: .
+    volumes:
+      - ./:/var/www/html/
+    ports:
+      - 8081:80
